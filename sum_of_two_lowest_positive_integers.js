@@ -14,4 +14,4 @@ function sumTwoSmallestNumbers(numbers) {
     return first_min + second_min;
 }
 
-sumTwoSmallestNumbers([5,2,7,9,11,1]);
+console.log(sumTwoSmallestNumbers([5,2,7,9,11,1]));
